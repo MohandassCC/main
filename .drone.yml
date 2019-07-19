@@ -1,0 +1,20 @@
+clone:
+  recursive: true
+  path: github.com/thomasf/drone-mvn
+
+build:
+  image: thomasf/drone-mvn
+  environment:
+    - GO15VENDOREXPERIMENT=1
+  commands:
+    - go build
+    - go test ./...
+
+# publish:
+#   docker:
+#     username: auser
+#     password: apassword
+#     email: anemail
+#     repo: plugins/hello
+#     when:
+#       branch: master
