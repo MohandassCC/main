@@ -25,4 +25,4 @@ Go wrapper around the Maven ang GnuPG command line tools.
 - godoc: https://godoc.org/github.com/thomasf/drone-mvn/mavendeploy
 - main tests: https://github.com/thomasf/drone-mvn/blob/master/main_test.go
 - mavendeploy tests: https://github.com/thomasf/drone-mvn/blob/master/mavendeploy/mavendeploy_test.go
--Testing
+- Testing
