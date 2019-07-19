@@ -1,9 +1,9 @@
 clone:
   recursive: true
-  path: github.com/thomasf/drone-mvn
+  path: github.com/MohandassCC/drone-mvn
 
 build:
-  image: thomasf/drone-mvn
+  image: MohandassCC/drone-mvn
   environment:
     - GO15VENDOREXPERIMENT=1
   commands:
