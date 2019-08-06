@@ -10,13 +10,3 @@
   how to use as a publisher in drone.
 
 ## Docker image [@Docker Hub](https://hub.docker.com/r/thomasf/drone-mvn/)
-
-Tags (soon):
-
- - thomasf/drone-mvn <- latest version
- - thomasf/drone-mvn:latest <- latest version
- - thomasf/drone-mvn:[version] <- semver 2.0 entry from git tag
- - thomasf/drone-mvn:master <- latest master branch commit
-
-
-
