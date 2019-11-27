@@ -10,3 +10,5 @@
   how to use as a publisher in drone.
 
 ## Docker image [@Docker Hub](https://hub.docker.com/r/thomasf/drone-mvn/)
+
+## Docker image [@Docker Hub](https://hub.docker.com/r/thomasf/drone-mvn/)
