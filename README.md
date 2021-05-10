@@ -12,3 +12,5 @@
 ## Docker image [@Docker Hub](https://hub.docker.com/r/thomasf/drone-mvn/)
 
 ## Docker image [@Docker Hub](https://hub.docker.com/r/thomasf/drone-mvn/)
+
+Test using codeship
